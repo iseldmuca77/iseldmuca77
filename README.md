@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iseldmuca77
+- 👀 I’m Python and c++ developer
+- 🌱 I-m intersted in sql,c#,bash
+- 🌱 I’m currently learning c
